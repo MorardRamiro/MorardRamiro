@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 ## You can find me in :mag::
 - [LinkedIn](https://www.linkedin.com/in/morardramiro/) :briefcase:
+- [E-mail](rramiromorard@gmail.com) :post:
 
