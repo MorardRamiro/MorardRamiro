@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 ### Hi there, my name is Ramiro :wave:
   I am a passionate Full-Stack Web Developer looking for new challenges.
 
-![portofolio](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
-
 ## Currently working with: 
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
